@@ -1,0 +1,44 @@
+.DS_Store
+node_modules
+/dist
+
+.openzeppelin
+.vscode
+.history
+build/
+config/
+.seed
+.serect
+*.log
+.seed*
+.env
+.env_*
+.envjs
+.key
+.pem
+.npm
+.eslintcache
+.cache
+.sqlite3
+*.sqlite
+*.db
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
